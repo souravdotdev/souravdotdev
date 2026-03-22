@@ -2,7 +2,7 @@
 <!--                    ANIMATED HEADER BANNER                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,30:ff6a00,60:fcb045,100:ee0979&height=230&section=header&text=Hey%20There!%20I'm%20Sourav%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Founder%20%40%20Creeto%20%F0%9F%9A%80&descAlignY=62&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,30:ff6a00,60:fcb045,100:ee0979&height=230&section=header&text=Hey%20There!%20I'm%20Sourav%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20%20%40%20Creeto%20%F0%9F%9A%80&descAlignY=62&descSize=22" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                           -->
